@@ -1,4 +1,6 @@
-### Hi there 👋
+<h1 align="center"> Всем привет! Меня зовут Настя! Hi there, I'm Anastasiya! ✌</h1>
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">Я начинающий Front-end developer</h3>
 
 <!--
 **LightTross/LightTross** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
