@@ -14,4 +14,4 @@
 
 ### Связаться со мной 📲:
 
-<link type="image/png" sizes="16x16" rel="icon" href=".../icons8-telegram-16.png">
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/the_cybermania)
