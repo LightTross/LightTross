@@ -13,6 +13,8 @@
 - изучить новые языки программирования и БД
 
 ### Связаться со мной 📲:
-[<img src="https://github.com/LightTross/icon/blob/main/images/css3.svg" align="left" width="26" alt="а">](https://www.linkedin.com/in/vera-chernushina/)
+[<img src="https://github.com/LightTross/icon/blob/main/images/mongodb.svg" align="left" width="26" alt="а">](https://www.linkedin.com/in/vera-chernushina/)
+
+https://github.com/LightTross/icon/blob/main/images/mongodb.svg
 https://github.com/LightTross/icon/blob/main/images/css3.svg
 
