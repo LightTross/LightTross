@@ -13,6 +13,6 @@
 - изучить новые языки программирования и БД
 
 ### Связаться со мной 📲:
-[<img src="https://github.com/LightTross/icon/blob/main/images/telegram.svg" align="left" width="26" alt="telegram" target="_blank">](https://t.me/lighttross)
+[<img src="https://github.com/LightTross/icon/blob/main/images/telegram.svg" align="left" width="26" alt="telegram">](https://t.me/lighttross)
 
-
+[https://github.com/LightTross/icon/blob/main/images/telegram.svg](https://t.me/lighttross){:target="_blank"}
