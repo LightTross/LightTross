@@ -1,6 +1,4 @@
 <h1 align="center"> Всем привет! Меня зовут Настя ✌</h1>
-![[Ввод SVG](https://readme-typing-svg.demolab.com/?lines=Я начинающий фронтендер 👩‍💻)](https://git.io/typing-svg)
-
 <h3 align="center">Я начинающий фронтендер 👩‍💻</h3>
 
 ### Немного обо мне 📝:
