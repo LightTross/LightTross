@@ -16,15 +16,15 @@
 [<img src="https://github.com/LightTross/icon/blob/main/images/telegram-color.svg" align="left" width="26" alt="telegram">](https://t.me/lighttross)
 <br/>
 ### Языки и технологии 🛠:
-[<img src="https://github.com/LightTross/icon/blob/main/images/html5-color.svg" align="left" width="26" alt="html5">]
-[<img src="https://github.com/LightTross/icon/blob/main/images/css3-color.svg" align="left" width="26" alt="css3">]
-[<img src="https://github.com/LightTross/icon/blob/main/images/javascript-color.svg" align="left" width="26" alt="javascript">]
-[<img src="https://github.com/LightTross/icon/blob/main/images/react-color.svg" align="left" width="26" alt="react">]
-[<img src="https://github.com/LightTross/icon/blob/main/images/nodedotjs-color.svg" align="left" width="26" alt="nodedotjs">]
-[<img src="https://github.com/LightTross/icon/blob/main/images/git-color.svg" align="left" width="26" alt="git">]
-[<img src="https://github.com/LightTross/icon/blob/main/images/mongodb-color.svg" align="left" width="26" alt="mongodb">]
-[<img src="https://github.com/LightTross/icon/blob/main/images/postman-color.svg" align="left" width="26" alt="postman">]
-[<img src="https://github.com/LightTross/icon/blob/main/images/webpack-color.svg" align="left" width="26" alt="webpack">]
+[<img src="https://github.com/LightTross/icon/blob/main/images/html5-color.svg" align="left" width="26" alt="html5">]()
+[<img src="https://github.com/LightTross/icon/blob/main/images/css3-color.svg" align="left" width="26" alt="css3">]()
+[<img src="https://github.com/LightTross/icon/blob/main/images/javascript-color.svg" align="left" width="26" alt="javascript">]()
+[<img src="https://github.com/LightTross/icon/blob/main/images/react-color.svg" align="left" width="26" alt="react">]()
+[<img src="https://github.com/LightTross/icon/blob/main/images/nodedotjs-color.svg" align="left" width="26" alt="nodedotjs">]()
+[<img src="https://github.com/LightTross/icon/blob/main/images/git-color.svg" align="left" width="26" alt="git">]()
+[<img src="https://github.com/LightTross/icon/blob/main/images/mongodb-color.svg" align="left" width="26" alt="mongodb">]()
+[<img src="https://github.com/LightTross/icon/blob/main/images/postman-color.svg" align="left" width="26" alt="postman">]()
+[<img src="https://github.com/LightTross/icon/blob/main/images/webpack-color.svg" align="left" width="26" alt="webpack">]()
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lighttross&layout=compact)](https://github.com/lighttross/github-readme-stats)
 
