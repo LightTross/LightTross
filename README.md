@@ -29,5 +29,5 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lighttross&layout=compact)](https://github.com/lighttross/github-readme-stats)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=lighttross)](https://github.com/lighttross/github-profile-trophy)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lighttross)](https://github.com/lighttross/github-readme-stats)
 
