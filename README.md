@@ -17,6 +17,11 @@
 
 
 
+
+
+
+
+
 ### Языки и технологии 🛠:
 [<img src="https://github.com/LightTross/icon/blob/main/images/html5-color.svg" align="left" width="26" alt="telegram">]
 [<img src="https://github.com/LightTross/icon/blob/main/images/css3-color.svg" align="left" width="26" alt="telegram">]
