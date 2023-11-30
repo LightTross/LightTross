@@ -14,4 +14,14 @@
 
 ### Связаться со мной 📲:
 [<img src="https://github.com/LightTross/icon/blob/main/images/telegram-color.svg" align="left" width="26" alt="telegram">](https://t.me/lighttross)
-[<img src="https://github.com/LightTross/icon/blob/main/images/react.svg" align="left" width="26" alt="telegram">](https://t.me/lighttross)
+
+### Языки и технологии 🛠:
+[<img src="https://github.com/LightTross/icon/blob/main/images/html5-color.svg" align="left" width="26" alt="telegram">]
+[<img src="https://github.com/LightTross/icon/blob/main/images/css3-color.svg" align="left" width="26" alt="telegram">]
+[<img src="https://github.com/LightTross/icon/blob/main/images/javascript-color.svg" align="left" width="26" alt="telegram">]
+[<img src="https://github.com/LightTross/icon/blob/main/images/react-color.svg" align="left" width="26" alt="telegram">]
+[<img src="https://github.com/LightTross/icon/blob/main/images/nodedotjs-color.svg" align="left" width="26" alt="telegram">]
+[<img src="https://github.com/LightTross/icon/blob/main/images/git-color.svg" align="left" width="26" alt="telegram">]
+[<img src="https://github.com/LightTross/icon/blob/main/images/mongodb-color.svg" align="left" width="26" alt="telegram">]
+[<img src="https://github.com/LightTross/icon/blob/main/images/postman-color.svg" align="left" width="26" alt="telegram">]
+[<img src="https://github.com/LightTross/icon/blob/main/images/webpack-color.svg" align="left" width="26" alt="telegram">]
